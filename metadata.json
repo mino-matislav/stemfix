@@ -1,0 +1,6 @@
+{
+  "name": "StemFix",
+  "description": "Profesionálny webový nástroj na analýzu zvuku, inteligentnú reparáciu, mastering a separáciu stemov.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
